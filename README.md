@@ -3,7 +3,8 @@
 
 ### 게임화면
 
-![image](https://github.com/qwa1822/Game1/assets/58835205/aa775155-cded-489c-aa50-2efd3abb24b8)
+
+![image](https://github.com/qwa1822/Game1/assets/58835205/0f2f9e84-888d-445f-a194-de8238bf613a)
 
 
 
