@@ -5,6 +5,9 @@
 
 > https://qwa1822.github.io/Game1/
 
+### 게임설명
+>방향키로 움직이고 SpaceBar를 눌러 총알을발사 적을명중
+
 ### 게임화면
 
 
